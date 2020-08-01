@@ -1,0 +1,28 @@
+{
+    "name": "qualiasystems/phalcon-debugbar",
+    "description": "Integrates PHP Debug Bar with Phalcon. 3.4",
+    "type": "library",
+    "keywords": ["phalcon", "debugbar", "profiler", "debug", "webprofiler"],
+    "require": {
+        "php": ">=7.3.0",
+        "maximebf/debugbar": "^1",
+        "filp/whoops": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Snowair\\Debugbar\\": "src/"
+        },
+        "files":[
+          "src/Debug.php"
+        ]
+    },
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qualia systems",
+            "email": "dev@qualias.jp"
+        }
+    ],
+    "minimum-stability": "dev"
+}
