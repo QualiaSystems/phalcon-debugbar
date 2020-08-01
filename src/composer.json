@@ -1,5 +1,5 @@
 {
-    "name": "qualiasystems/phalcon-debugbar",
+    "name": "qualiasystems/phalcon-debugbar3.4",
     "description": "Integrates PHP Debug Bar with Phalcon. 3.4",
     "type": "library",
     "keywords": ["phalcon", "debugbar", "profiler", "debug", "webprofiler"],
