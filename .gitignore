@@ -57,3 +57,5 @@ nb-configuration.xml
 # Swap Files #
 .*.kate-swp
 .swp.*
+nbproject/project.properties
+nbproject/project.xml
